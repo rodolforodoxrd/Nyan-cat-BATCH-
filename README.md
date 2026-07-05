@@ -114,13 +114,11 @@ All rights to the original character, artwork, and music belong to their respect
 
 # 📜 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the MIT License.
 
-The MIT License applies **only to the source code** contained in this repository.
+The MIT License applies to the source code in this repository.
 
-This license applies only to the source code in this repository.
-
-The Nyan Cat character, artwork, original music, and related intellectual property remain the property of their respective copyright owners.
+Third-party content (including the Nyan Cat character, artwork, and music) is not covered by this license and remains the property of their respective copyright holders.
 
 ---
 
